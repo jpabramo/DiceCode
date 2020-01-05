@@ -12,3 +12,6 @@
 <p>
   The ISO file accompanying this project is currently incomplete, lacking a few features that should be in the final ISO at least for version Alpha 1.0.
 </p>
+<p>
+Take a look at the ISO to help develop!
+</p>
