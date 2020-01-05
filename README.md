@@ -6,7 +6,9 @@
 <p>
   The language should be able to run and be used on-console.
 </p>
+
 ## The ISO file
+
 <p>
   The ISO file accompanying this project is currently incomplete, lacking a few features that should be in the final ISO at least for version Alpha 1.0.
 </p>
